@@ -1,4 +1,4 @@
-# Building Energy Pipeline v8.0
+# Building Energy Pipeline v8.1
 ### Residential energy-consumption prediction pipeline (RECS 2020 + TMY3 + ResStock)
 
 Debugged and end-to-end-tested version 8 of the building-energy prediction
